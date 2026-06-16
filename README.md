@@ -1,14 +1,9 @@
-\# Stock Market Price Movement Prediction System
+# Stock Market Price Movement Prediction System
+
+A Machine Learning project that predicts the next-day movement of stock prices using historical S&P 500 stock data. The project includes data preprocessing, feature engineering, model training, evaluation, and an interactive Streamlit web application for real-time predictions.
 
 
-
-\## About
-
-Predicts whether Apple (AAPL) stock will go UP or DOWN the next trading day using Machine Learning.
-
-
-
-\## Dataset
+Dataset
 
 \- S\&P 500 Stock Data from Kaggle
 
@@ -17,8 +12,7 @@ Predicts whether Apple (AAPL) stock will go UP or DOWN the next trading day usin
 \- 5 years of historical data (\~1258 trading days)
 
 
-
-\## Technologies Used
+Technologies Used
 
 \- Python
 
