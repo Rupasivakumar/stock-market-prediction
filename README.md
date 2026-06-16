@@ -66,8 +66,7 @@ Stock market prediction is highly challenging due to market volatility and uncer
 - Portfolio recommendation system
 - Cloud deployment
 
----
----
+------
 
 # Project Screenshots
 
@@ -77,37 +76,37 @@ Stock market prediction is highly challenging due to market volatility and uncer
 ---
 
 ## Prediction Result
-![Prediction Result](screenshots/Prediction%20result.png)
+![Prediction Result](screenshots/Prediction result.png)
 
 ---
 
 ## AAPL Historical Stock Chart
-![AAPL Historical Stock Chart](screenshots/AAPL%20histrocial(stock%20chart)%201.png)
+![AAPL Historical Stock Chart](screenshots/AAPL histrocial(stock chart) 1.png)
 
 ---
 
 ## Trading Volume (Stock Chart)
-![Trading Volume](screenshots/Trading%20volumes%20(stock%20chart)2.png)
+![Trading Volume](screenshots/Trading volumes (stock chart)2.png)
 
 ---
 
 ## Daily Returns (Stock Chart)
-![Daily Returns](screenshots/Daily%20retuns(stock%20chart)3.png)
+![Daily Returns](screenshots/Daily retuns(stock chart)3.png)
 
 ---
 
 ## Close Price Distribution & Correlation Heatmap (EDA Analysis)
-![Correlation Heatmap](screenshots/Close%20price%20distribution%26corelation%20heatmap(EDA%20analysis).png)
+![Close Price Distribution & Correlation Heatmap](screenshots/Close price distribution&corelation heatmap(EDA analysis).png)
 
 ---
 
 ## Exploratory Data Analysis (EDA Analysis)
-![EDA Analysis](screenshots/Exploratory%20Data%20Analysis(EDA%20analysis).png)
+![Exploratory Data Analysis](screenshots/Exploratory Data Analysis(EDA analysis).png)
 
 ---
 
 ## UP vs DOWN Days Distribution & Volatility
-![UP DOWN Analysis](screenshots/Up%20vs%20down%20days%20distribution%26volatility.png)
+![UP vs DOWN Days Distribution & Volatility](screenshots/Up vs down days distribution&volatility.png)
 
 ---
 
