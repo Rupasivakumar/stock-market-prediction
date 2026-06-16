@@ -1,25 +1,19 @@
- 📈 Stock Market Price Movement Prediction System
-
-(Project Description)
-
-## Features
-
-## Technologies Used
-
-## Dataset
-
 ## Workflow
 
-## Model Performance
-
-## Application Screenshots
-
-## Skills Demonstrated
-
-## Future Enhancements
-
-## Installation & Usage
-
-## Disclaimer
-
-## Author
+Dataset Collection
+↓
+Data Cleaning
+↓
+Exploratory Data Analysis (EDA)
+↓
+Feature Engineering
+↓
+Model Training
+↓
+Model Evaluation
+↓
+Model Saving
+↓
+Streamlit Application
+↓
+Prediction Generation
