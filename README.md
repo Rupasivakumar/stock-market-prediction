@@ -67,31 +67,52 @@ Stock market prediction is highly challenging due to market volatility and uncer
 - Cloud deployment
 
 ---
+---
 
-# 📸 Application Screenshots
+# Project Screenshots
 
-## 🏠 Home & Prediction Page
+## Home Page
 
-<img src="screenshots/Home.png" width="800"/>
+![Home](screenshots/Home.png)
 
+---
 
-## 📈 Prediction Result
+## Stock Chart - Trading Volume
 
-<img src="screenshots/prediction result.png" width="800"/>
+![Trading Volume](screenshots/Trading volumes (stock chart)2.png)
 
+---
 
-## 📊 Stock Chart Analysis
+## Stock Chart - Daily Returns
 
-<img src="screenshots/stock chart 1.png" width="800"/>
+![Daily Returns](screenshots/Daily retuns(stock chart)3.png)
 
+---
 
-## 🔎 Exploratory Data Analysis
+## EDA Analysis
 
-<img src="screenshots/EDA analysis(Exploratory Data Analysis).png" width="800"/>
+![EDA Analysis](screenshots/Exploratory Data Analysis(EDA analysis).png)
 
+---
 
-## 📉 Additional Analysis
+## Close Price Distribution & Correlation Heatmap
 
-<img src="screenshots/EDA analysis (close price distribution&corelation heatmap).png" width="800"/>
+![Correlation Heatmap](screenshots/Close price distribution&corelation heatmap(EDA analysis).png)
 
+---
 
+## UP vs DOWN Days Distribution & Volatility
+
+![UP DOWN Analysis](screenshots/Up vs down days distribution&volatility.png)
+
+---
+
+## About Page
+
+![About](screenshots/About.png)
+
+---
+
+## Prediction Result
+
+![Prediction Result](screenshots/Prediction result.png)
