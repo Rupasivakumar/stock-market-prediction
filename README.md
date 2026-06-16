@@ -106,7 +106,7 @@ Stock market prediction is highly challenging due to market volatility and uncer
 ---
 
 ## UP vs DOWN Days Distribution & Volatility
-![UP DOWN Analysis](screenshots/Up%20vs%20down%20days%20distribution%26volatility.png)
+![UP DOWN Analysis](screenshots/Up%20vs%20%20down%20days%20distribution%26volatility.png)
 
 ---
 
