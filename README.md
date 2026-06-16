@@ -66,4 +66,32 @@ Stock market prediction is highly challenging due to market volatility and uncer
 - Portfolio recommendation system
 - Cloud deployment
 
+---
+
+# 📸 Application Screenshots
+
+## 🏠 Home & Prediction Page
+
+<img src="screenshots/Home.png" width="800"/>
+
+
+## 📈 Prediction Result
+
+<img src="screenshots/prediction result.png" width="800"/>
+
+
+## 📊 Stock Chart Analysis
+
+<img src="screenshots/stock chart 1.png" width="800"/>
+
+
+## 🔎 Exploratory Data Analysis
+
+<img src="screenshots/EDA analysis(Exploratory Data Analysis).png" width="800"/>
+
+
+## 📉 Additional Analysis
+
+<img src="screenshots/EDA analysis (close price distribution&corelation heatmap).png" width="800"/>
+
 
